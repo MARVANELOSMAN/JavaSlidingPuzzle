@@ -20,10 +20,3 @@ A fun and interactive sliding puzzle game built with Java, featuring a simple gr
 3. Rearrange all tiles to recreate the original image.  
 4. Use the **Reset** button to return the puzzle to its solved state.  
 
----
-
-## Installation and Setup
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/sliding-puzzle-game.git
